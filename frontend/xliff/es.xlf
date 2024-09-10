@@ -3647,34 +3647,17 @@
 <trans-unit id="s24a06fd949e2d65b">
   <source>Back to</source>
 </trans-unit>
-<trans-unit id="s7ee7b202edc2481e">
-  <source>Page List</source>
-</trans-unit>
-<trans-unit id="s1e2e5062a253c739">
-  <source>One or more URLs</source>
-</trans-unit>
 <trans-unit id="sc33daa5130000a11">
   <source>Choose this option if you know the URL of every page you'd like to crawl and don't need to include any additional pages beyond one hop out.</source>
 </trans-unit>
 <trans-unit id="s008f62e40844e6d5">
   <source>Site Crawl</source>
 </trans-unit>
-<trans-unit id="s46bd7b046b0ca6d4">
-  <source>Website or directory</source>
-</trans-unit>
 <trans-unit id="sa7264597ca290e44">
   <source>Specify a domain name, start page URL, or path on a website and let the crawler automatically find pages within that scope.</source>
 </trans-unit>
-<trans-unit id="hb653cf5693a98f6b">
-  <source>Choose <x id="0" equiv-text="&lt;strong&gt;"/>Page List<x id="1" equiv-text="&lt;/strong&gt;"/> if:</source>
-</trans-unit>
 <trans-unit id="s16addd6732b613fd">
   <source>You want to include URLs with different domain names in the same crawl</source>
-</trans-unit>
-<trans-unit id="h25ccce1baa96d993">
-  <source>A Page List workflow is simpler to configure, since you don't
-              need to worry about configuring the workflow to exclude parts of
-              the website that you may not want to archive.</source>
 </trans-unit>
 <trans-unit id="hc5b85948ffe0eb76">
   <source>Choose <x id="0" equiv-text="&lt;strong&gt;"/>Site Crawl<x id="1" equiv-text="&lt;/strong&gt;"/> if:</source>
@@ -3786,6 +3769,23 @@
               URL(s) required in
               <x id="1" equiv-text="&lt;a href=&quot;${crawlSetupUrl}&quot; class=&quot;bold underline hover:no-underline&quot;&gt;"/>Scope<x id="2" equiv-text="&lt;/a&gt;"/>. <x id="3" equiv-text="&lt;br&gt;&lt;br&gt;"/>
               Please fix to continue.</source>
+</trans-unit>
+<trans-unit id="s58672d8bc12bdf2d">
+  <source>Page Crawl</source>
+</trans-unit>
+<trans-unit id="sc86311564d806b1a">
+  <source>One or more page URLs</source>
+</trans-unit>
+<trans-unit id="s58aa8e5a0a8ef1cd">
+  <source>Entire website or directory</source>
+</trans-unit>
+<trans-unit id="h3cf710e606034c26">
+  <source>Choose <x id="0" equiv-text="&lt;strong&gt;"/>Page Crawl<x id="1" equiv-text="&lt;/strong&gt;"/> if:</source>
+</trans-unit>
+<trans-unit id="hd7a46742e7ea83d8">
+  <source>A Page Crawl workflow is simpler to configure, since you
+              don't need to worry about configuring the workflow to exclude
+              parts of the website that you may not want to archive.</source>
 </trans-unit>
 </body>
 </file>
