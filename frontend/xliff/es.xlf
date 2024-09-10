@@ -3772,8 +3772,11 @@
 <trans-unit id="s5580f66882bfda0b">
   <source>Pages on Same Domain &amp; Subdomains</source>
 </trans-unit>
-<trans-unit id="sc846752c1223b0a5">
-  <source>Any Linked Page</source>
+<trans-unit id="sdd8e8047128a2fdc">
+  <source>Any Page</source>
+</trans-unit>
+<trans-unit id="s21b06c38fc4164db">
+  <source>Advanced</source>
 </trans-unit>
 </body>
 </file>
