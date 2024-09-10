@@ -2159,9 +2159,6 @@
 <trans-unit id="s36fd1256980b5f58">
   <source>Sorry, couldn't submit QA review at this time.</source>
 </trans-unit>
-<trans-unit id="sf0cab2483f66aa2e">
-  <source>Custom</source>
-</trans-unit>
 <trans-unit id="saa63c0c9ca0eac98">
   <source>You don't have permission to create a new Workflow.</source>
 </trans-unit>
@@ -2225,18 +2222,6 @@
 </trans-unit>
 <trans-unit id="saafb6030ac4b40dd">
   <source>Are you sure you want to remove yourself from <x id="0" equiv-text="${this.userOrg.name}"/>?</source>
-</trans-unit>
-<trans-unit id="s1442d0b6e28b30d1">
-  <source>Path Begins with This URL</source>
-</trans-unit>
-<trans-unit id="s79f048d846fe95e0">
-  <source>Pages on This Domain</source>
-</trans-unit>
-<trans-unit id="s14aaedc6664de249">
-  <source>Pages on This Domain &amp; Subdomains</source>
-</trans-unit>
-<trans-unit id="sfdbfacb391cb6900">
-  <source>Single Page App (In-Page Links Only)</source>
 </trans-unit>
 <trans-unit id="s1ae7988ed93b0a32">
   <source>0 seconds</source>
@@ -3708,15 +3693,6 @@
 <trans-unit id="sede6d0c607d400db">
   <source>New Crawl Workflow</source>
 </trans-unit>
-<trans-unit id="s6d442dd558f7122a">
-  <source>Pages in a Directory</source>
-</trans-unit>
-<trans-unit id="sec2ea7c2ceb9dead">
-  <source>Pages on a Domain</source>
-</trans-unit>
-<trans-unit id="sc4c31c9e31da4102">
-  <source>Pages on a Domain &amp; Subdomains</source>
-</trans-unit>
 <trans-unit id="sf53b13138a2c1d0e">
   <source>Page Hashes</source>
 </trans-unit>
@@ -3786,6 +3762,18 @@
   <source>A Page Crawl workflow is simpler to configure, since you
               don't need to worry about configuring the workflow to exclude
               parts of the website that you may not want to archive.</source>
+</trans-unit>
+<trans-unit id="sce375af3e1ad308f">
+  <source>Pages in Same Directory</source>
+</trans-unit>
+<trans-unit id="sd592eeaabdbd5a46">
+  <source>Pages on Same Domain</source>
+</trans-unit>
+<trans-unit id="s5580f66882bfda0b">
+  <source>Pages on Same Domain &amp; Subdomains</source>
+</trans-unit>
+<trans-unit id="sc846752c1223b0a5">
+  <source>Any Linked Page</source>
 </trans-unit>
 </body>
 </file>
